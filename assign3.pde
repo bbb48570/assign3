@@ -99,6 +99,11 @@ void draw() {
   image(enemy,-1500+p,200);
   popMatrix();
 
-  
+  if(x==2500)
+  {
+    y=floor(random(20,100));
+    y1=floor(random(20,100));
+    x=0;
+  }
   // your code
 }

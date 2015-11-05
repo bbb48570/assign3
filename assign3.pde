@@ -101,8 +101,8 @@ void draw() {
 
   if(x==2500)
   {
-    y=floor(random(20,100));
-    y1=floor(random(20,400));
+    y=floor(random(20,400));
+    y1=floor(random(20,300));
     x=0;
   }
   // your code

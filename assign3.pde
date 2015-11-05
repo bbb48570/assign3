@@ -102,7 +102,7 @@ void draw() {
   if(x==2500)
   {
     y=floor(random(20,100));
-    y1=floor(random(20,300));
+    y1=floor(random(20,200));
     x=0;
   }
   // your code
